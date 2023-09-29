@@ -1,0 +1,144 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+#body {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65rem;
+}
+
+#container {
+    text-align: center;
+}
+
+#header {
+    background-color: black;
+    padding: 80px;
+}
+
+.headings {
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    line-height: 1.5rem;
+    padding-top: 40px;
+}
+
+#first-section {
+    width: 100%;
+    background-image: url(../images/banner.jpg);
+}
+
+#paragrafo-first-section {
+    padding: 20px;
+}
+
+#pulsante {
+    border: 1px solid #dee1e3;
+    background-color: #f04c2f ;
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 12%;
+}
+
+#second-section {
+    padding: 30px;
+}
+
+.paragrafi-second-section {
+    padding: 10px 15px 15px 15px;
+}
+
+#notebook {
+    border-radius: 100%;
+}
+
+#third-section {
+    background-color: #e22d0e;
+}
+
+.heading2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: white;
+    padding: 30px 15px 20px 15px;
+}
+
+#epicode-garantisce {
+    font-size: 2rem;
+    font-weight: 700;
+    font-style: bold;
+    color: white;
+    padding-top: 30px;
+}
+
+#testimonianze {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: white;
+    padding: 30px 15px 20px 15px;
+}
+
+#mario-rossi {
+    font-size: 1rem;
+    color: white;
+}
+
+#ceo {
+    font-size: 0.8rem;
+    color: white;
+    padding-bottom: 25px;
+}
+
+#aside {
+    padding: 20px;
+}
+
+.article {
+    border: 1px solid rgb(230, 226, 226);
+    margin: 30px auto;
+}
+
+.img-article {
+    width: 100%;
+}
+
+.paragraph-article {
+    padding: 25px;
+}
+
+#footer {
+    background-color: #25a2c3;
+    color: #c8e7f0;
+}
+
+#contatti {
+    font-size: 1.8rem;
+    font-style: bold;
+    font-weight: 700;
+    padding: 30px;
+}
+
+#flexbox {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.footer-link {
+    color: #c8e7f0;
+    cursor: pointer;
+}
+
+#pixabay {
+    padding: 20px;
+    border-top: 1px solid white;
+}
+
+#link-finale {
+    color: white;
+}

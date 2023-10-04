@@ -9,6 +9,8 @@ if (number1 > number2) {
   console.log('il più grande è', number1);
 } else if (number1 < number2) {
   console.log('il più grande è', number2)
+} else {
+  console.log ('i numeri sono uguali')
 }
 
 /* ESERCIZIO 2
@@ -28,7 +30,7 @@ if (number !== 5) {
 let number5 = 95
 
 if (number5 % 5 === 0) {
-  console.log('divisibile per 5');
+  console.log ('divisibile per 5');
 }
 
 /* ESERCIZIO 4
@@ -38,7 +40,7 @@ if (number5 % 5 === 0) {
 let num1 = 8
 let num2 = 9
 
-if (num1 === 8){
+if (num1 === 8) {
   console.log ('il valore è 8');
 } else if (num2 === 8) {
   console.log ('il valore è 8');

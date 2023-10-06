@@ -1,0 +1,95 @@
+/* Your styles here */
+
+#body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    background-color: rgb(3, 39, 3);
+}
+
+#logo {
+    padding: 20px;
+}
+
+#nav {
+    background-color: rgb(3, 77, 3);
+}
+
+.link-menù {
+    color: white;
+    text-decoration: none;
+}
+
+#main-footer {
+    text-align: center;
+}
+
+#intestazione {
+    background-color: orangered;
+    color: white;
+    padding: 20 px;
+    margin: 20px
+}
+
+#first-section {
+    background-image: url(../images/bg-image.png);
+    color: white;
+}
+
+#h1 {
+    padding: 40px;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+#h3 {
+    padding: 20px;
+}
+
+#second-section {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.image-container {
+    margin: 10px;
+}
+
+.img-second-section {
+    width: 100%;
+    border-radius: 12%;
+}
+
+.ultime-section {
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.last-image {
+    width: 100%;
+}
+
+.paragrafi-figure {
+    font-weight: 700;
+}
+
+.link-figure {
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#back {
+    background-color: rgb(58, 55, 55);
+    padding: 20px;
+}
+
+#link-back {
+    color: white;
+}
+
+#logo-footer {
+    background-color:  rgb(27, 23, 23);
+    padding: 50px
+}

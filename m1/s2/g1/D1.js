@@ -25,9 +25,9 @@ REGOLE
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-let nome = 'Giovanni';
+let name = 'Giovanni';
 
-console.log(nome);
+console.log(name);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -52,9 +52,9 @@ console.log(x);
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-nome = 'Casalino';
+name = 'Casalino';
 
-console.log(nome);
+console.log(name);
 
 //const varcost = 0;
 //varcost =1;

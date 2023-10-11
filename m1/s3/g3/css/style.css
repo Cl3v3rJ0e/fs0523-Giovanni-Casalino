@@ -1,0 +1,29 @@
+#task-app {
+    text-align: center;
+}
+
+#body {
+    background-color: rgb(8, 152, 152);
+}
+
+#h1 {
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2rem;
+    font-weight: 700;
+    padding: 20px;
+    color: beige;
+}
+
+#div-input {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.list-item {
+    padding: 10px;
+    background-color: rgb(229, 94, 94);
+    border: 1px solid blue;
+    color: white;
+}

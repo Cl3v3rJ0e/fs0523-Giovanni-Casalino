@@ -1,0 +1,85 @@
+@media screen and (min-width: 576px) {
+
+    #header {
+        position: sticky;
+        top: 0;
+    }
+
+    
+    
+    .imgLeft {
+        float: left;
+    }
+
+    .first-h2 {
+        font-weight: normal;
+    }
+
+    .table {
+        margin-left: -3px;
+    }
+
+    .h2-novità {
+        width: 35%;
+        height: 45px;
+        position: absolute;
+        top: -15px;
+        left: 10px;
+        padding: 0 auto;
+        font-size: 2em;
+        box-shadow: 1px 1px 3px black;
+    }
+
+    .p-novità {
+        margin-top: 35px;
+    }
+
+    .fieldset {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+
+    .aside {
+        position: relative;
+    }
+
+    .fas{
+        position: absolute;
+        right: 40px;
+        bottom: 20px;
+    }
+
+    .link-social {
+        background-color: #EDD4D9;
+        border: 3px solid #fff;
+        border-radius: 5px;
+        padding: 10px 12px;
+        position: fixed;
+        bottom: 120px;
+        right: 0;
+        cursor: pointer;
+    }
+
+    .link-calendar {
+        background-color: #EDD4D9;
+        border: 2px solid #fff;
+        border-radius: 5px;
+        padding: 10px 12px;
+        position: fixed;
+        bottom: 60px;
+        right: 0;
+        cursor: pointer;
+    }
+
+    .torna-in-alto {
+        background-color: #EDD4D9;
+        border: 2px solid #fff;
+        border-radius: 5px;
+        padding: 10px 12px;
+        position: fixed;
+        bottom: 0px;
+        right: 0;
+        cursor: pointer;
+    }
+
+}

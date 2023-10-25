@@ -1,0 +1,9 @@
+.container {
+    background-color: bisque;
+}
+
+.product-card {
+    display: flex;
+    justify-content: center;
+}
+
